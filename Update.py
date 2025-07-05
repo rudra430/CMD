@@ -69,7 +69,7 @@ logo = f'''
 {W}{47*'-'}
 
 {xd} DEVELOPER {R}:{G} RUDRA SINGH
-
+{xd} VERSION {R}:{G} 2.0
 {xd} TOOLS     {R}:{G} RANDOM {W}6{G} COUNTRY CLONE
 
 {W}{47*'-'}
